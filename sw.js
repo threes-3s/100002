@@ -93,6 +93,9 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/2KkcAtXU.js",
     "revision": null
   }, {
+    "url": "assets/6v7FaJlA.css",
+    "revision": null
+  }, {
     "url": "assets/7PLXKNTc.js",
     "revision": null
   }, {
@@ -102,10 +105,10 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/a_ZzCJ4C.js",
     "revision": null
   }, {
-    "url": "assets/app-C1_ZzvLw.js",
+    "url": "assets/agi4S32U.js",
     "revision": null
   }, {
-    "url": "assets/B1uQQjKv.js",
+    "url": "assets/app-NgHYSUEA.js",
     "revision": null
   }, {
     "url": "assets/B3zRuuNz.js",
@@ -115,6 +118,9 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "assets/B6q-0wKG.js",
+    "revision": null
+  }, {
+    "url": "assets/B8d4Gctw.js",
     "revision": null
   }, {
     "url": "assets/B96V2lXS.js",
@@ -135,7 +141,7 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/BE3Y05dy.js",
     "revision": null
   }, {
-    "url": "assets/Bgh3bzPI.css",
+    "url": "assets/BFgdugQs.js",
     "revision": null
   }, {
     "url": "assets/BhCKoogL.js",
@@ -156,22 +162,13 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/BnTvqoih.js",
     "revision": null
   }, {
-    "url": "assets/BP6lKote.css",
-    "revision": null
-  }, {
     "url": "assets/BQsT0d9p.js",
     "revision": null
   }, {
-    "url": "assets/BXEnikUv.js",
+    "url": "assets/BWg414S8.js",
     "revision": null
   }, {
     "url": "assets/By65-G2J.js",
-    "revision": null
-  }, {
-    "url": "assets/C_s1CQg6.js",
-    "revision": null
-  }, {
-    "url": "assets/C0mrKOBZ.js",
     "revision": null
   }, {
     "url": "assets/C8ukEo7o.js",
@@ -187,9 +184,6 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "assets/CJWvpnsb.css",
-    "revision": null
-  }, {
-    "url": "assets/CKfazeXf.css",
     "revision": null
   }, {
     "url": "assets/CKStvPHB.js",
@@ -210,6 +204,9 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/CqHvsrrH.css",
     "revision": null
   }, {
+    "url": "assets/CrNQaHnP.js",
+    "revision": null
+  }, {
     "url": "assets/CuCdzXxX.js",
     "revision": null
   }, {
@@ -225,9 +222,6 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/CyLepg8N.js",
     "revision": null
   }, {
-    "url": "assets/D2jKVaMZ.js",
-    "revision": null
-  }, {
     "url": "assets/d8_Y_oli.js",
     "revision": null
   }, {
@@ -240,16 +234,13 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/Db0w78gS.js",
     "revision": null
   }, {
+    "url": "assets/Db3tc_3F.css",
+    "revision": null
+  }, {
     "url": "assets/DBP1Z03v.js",
     "revision": null
   }, {
-    "url": "assets/DcTdRm5V.js",
-    "revision": null
-  }, {
     "url": "assets/DeZn86NW.css",
-    "revision": null
-  }, {
-    "url": "assets/DFDOflcE.js",
     "revision": null
   }, {
     "url": "assets/DFyQW21Q.js",
@@ -261,10 +252,16 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/DGj4AATS.js",
     "revision": null
   }, {
+    "url": "assets/DgzA4Vq6.js",
+    "revision": null
+  }, {
     "url": "assets/Di7uL4OE.js",
     "revision": null
   }, {
     "url": "assets/DKqS1uNp.css",
+    "revision": null
+  }, {
+    "url": "assets/Dmx5pCGW.js",
     "revision": null
   }, {
     "url": "assets/DMzBY6vk.js",
@@ -277,6 +274,9 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": null
   }, {
     "url": "assets/DoTkooFr.js",
+    "revision": null
+  }, {
+    "url": "assets/DPlJVDdC.js",
     "revision": null
   }, {
     "url": "assets/DQP6gcI8.css",
@@ -303,13 +303,13 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/DwzQhuBz.js",
     "revision": null
   }, {
+    "url": "assets/DxerJlS7.js",
+    "revision": null
+  }, {
     "url": "assets/Dy6cTXtR.js",
     "revision": null
   }, {
     "url": "assets/f9KW7z7x.js",
-    "revision": null
-  }, {
-    "url": "assets/mjnEY4tp.js",
     "revision": null
   }, {
     "url": "assets/NFaY8oKA.js",
@@ -336,13 +336,13 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "url": "assets/taichi-Cpe_iz6n.png",
     "revision": null
   }, {
+    "url": "assets/uYlR2MbA.css",
+    "revision": null
+  }, {
     "url": "assets/wx-BEFoXXau.jpg",
     "revision": null
   }, {
     "url": "assets/X2kM3qw6.js",
-    "revision": null
-  }, {
-    "url": "assets/XHzXonxh.js",
     "revision": null
   }, {
     "url": "icons/apple-touch-icon-180x180.png",
@@ -373,22 +373,22 @@ define(['./workbox-9637eeee'], (function (workbox) { 'use strict';
     "revision": "cdd2778e636008c04170c1a7d59d2ac4"
   }, {
     "url": "404.html",
-    "revision": "84dd46b644cfde68157cc30fc88b27b7"
+    "revision": "af618270a453002fb74ada904fb1533a"
   }, {
     "url": "answer.html",
-    "revision": "3f3368d4c0265baad76e2deb9781ef29"
+    "revision": "de215c784c65b08be4833c7edde35bbf"
   }, {
     "url": "bagua.html",
-    "revision": "a1ddb4b210f86688e5c8ed7ed6e791a6"
+    "revision": "0a89c80ce698f1b8501517a087f6f84f"
   }, {
     "url": "bazi.html",
-    "revision": "59293cb2b186f620a9df63dea0bc8308"
+    "revision": "977442ca8e6abdef8bac881dbb4a5321"
   }, {
     "url": "gua.html",
-    "revision": "0b82377d9f8e71b235d826583f48dbe7"
+    "revision": "3957d5fc2dd04060f55c62e1e1eb1ffd"
   }, {
     "url": "index.html",
-    "revision": "1a75e62c73696145280456957701270c"
+    "revision": "779a57507236dbe24444cec899ed8cc7"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
